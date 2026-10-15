@@ -1,0 +1,16 @@
+{
+  "name": "สมุดกรีดยาง",
+  "short_name": "กรีดยาง",
+  "description": "จดการกรีดยาง รอบขาย และแบ่งเงินลูกจ้าง",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F5EF",
+  "theme_color": "#2E6A3D",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
